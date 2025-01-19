@@ -26,6 +26,8 @@ The repository includes the following wordlists:
 
 1. malaysia_common_passwords.txt: A list of the most commonly used passwords in Malaysia.
 
+**In total, the wordlists contain 804,864 entries, providing a comprehensive resource for password analysis and security assessments.**
+
 
 
 **Usage**
