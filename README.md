@@ -9,14 +9,14 @@ TECH WIRE ASIA
 
 Other frequently used passwords include:
 
-         admin
-         password
-         12345678
-         abcd1234
-         000000
-         123456789
-         abc123
-         12345
+1. admin
+2. password
+3. 12345678
+4. abcd1234
+5. 000000
+6. 23456789
+7. abc123
+8. 12345
 
 The use of such weak passwords significantly increases the risk of unauthorized access and data breaches. This repository aims to highlight these vulnerabilities and encourage the adoption of stronger, more secure passwords.
 
@@ -27,6 +27,7 @@ malaysia_common_passwords.txt: A list of the most commonly used passwords in Mal
 malaysia_names_passwords.txt: Common Malaysian names used as passwords.
 malaysia_phrases_passwords.txt: Frequently used Malay words and phrases in passwords.
 Usage
+
 These wordlists can be utilized for various purposes, including:
 
 Security Assessments: Testing the strength of passwords during security audits.
