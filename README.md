@@ -26,6 +26,8 @@ The repository includes the following wordlists:
 
 1. malaysia_common_passwords.txt: A list of the most commonly used passwords in Malaysia.
 
+
+
 **Usage**
 
 These wordlists can be utilized for various purposes, including:
@@ -35,6 +37,7 @@ These wordlists can be utilized for various purposes, including:
 **Research**: Analyzing password patterns and behaviors among Malaysian users.
 
 **Education**: Demonstrating the risks associated with weak passwords and promoting better practices.
+
 
 **Contributing**
 
