@@ -35,7 +35,9 @@ These wordlists can be utilized for various purposes, including:
 **Education**: Demonstrating the risks associated with weak passwords and promoting better practices.
 
 **Contributing**
+
 Contributions to expand and refine these wordlists are welcome. Please ensure that any additions are relevant to Malaysian password usage and do not include sensitive or personal information.
 
 **Disclaimer**
+
 This repository is intended for educational and research purposes only. Misuse of this information for unauthorized access or malicious activities is strictly prohibited. The contributors are not responsible for any misuse of the provided information.
