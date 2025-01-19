@@ -9,14 +9,14 @@ TECH WIRE ASIA
 
 Other frequently used passwords include:
 
-                      admin
-                      password
-                      12345678
-                      abcd1234
-                      000000
-                      123456789
-                      abc123
-                      12345
+   admin
+   password
+   12345678
+   abcd1234
+   000000
+   123456789
+   abc123
+   12345
 
 The use of such weak passwords significantly increases the risk of unauthorized access and data breaches. This repository aims to highlight these vulnerabilities and encourage the adoption of stronger, more secure passwords.
 
