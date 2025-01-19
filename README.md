@@ -28,7 +28,7 @@ The repository includes the following wordlists:
 
 **In total, the wordlists contain 804,864 entries, providing a comprehensive resource for password analysis and security assessments.**
 
-
+2. Malaysia-for-Wifi-Crack.txt: **A comprehensive list containing 708,578 entries filtered to include passwords with 8 characters or more, intended for those researching Wi-Fi password security**
 
 
 
