@@ -31,7 +31,9 @@ The repository includes the following wordlists:
 These wordlists can be utilized for various purposes, including:
 
 **Security Assessments**: Testing the strength of passwords during security audits.
+
 **Research**: Analyzing password patterns and behaviors among Malaysian users.
+
 **Education**: Demonstrating the risks associated with weak passwords and promoting better practices.
 
 **Contributing**
