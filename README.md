@@ -6,7 +6,6 @@ This is my research about common use passwords in **Malaysia**.
 **Overview**
 
 Password security remains a critical concern in Malaysia. Studies have consistently shown that weak and easily guessable passwords are prevalent among Malaysian users. For instance, in 2023, "**123456**" emerged as the most commonly used password in the country. 
-TECH WIRE ASIA
 
 Other frequently used passwords include:
 
